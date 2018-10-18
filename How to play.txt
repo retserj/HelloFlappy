@@ -1,3 +1,4 @@
 Copy the Html file.
 Start it.
 Have fun!
+You can change some parameters, if you are intelligent enough. Don't mess with the code if you aint
